@@ -1,0 +1,1 @@
+/mnt/c/Users/aryan/Desktop/TheFolder/some/youtube/rust/Learning-Rust/g-StringvsSlice/target/debug/g-StringvsSlice: /mnt/c/Users/aryan/Desktop/TheFolder/some/youtube/rust/Learning-Rust/g-StringvsSlice/src/main.rs
