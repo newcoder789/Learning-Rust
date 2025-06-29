@@ -39,6 +39,10 @@ fn first_letter(str: &String)-> &str{
     }
     &str[0..index]
 }
+    // let  string = String::from("kdslf") // String Type( stored partially on stack and partially on heap )
+    // let string_slice = &string; // Has a •view' into the original string/ is a reference
+    // tet string_literat • "hetto"; ' / literal is also an 'str but it points directly to an address
+    // in the binary ( hardcoded in binary not  positioning to some place in memory)
 
 
 
